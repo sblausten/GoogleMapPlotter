@@ -2,6 +2,8 @@
 
 Static GMap site that adds markers to a map and saves them in memory.
 
+![Screenshot of app](https://user-images.githubusercontent.com/7934833/29927831-61a4000a-8e5f-11e7-9fcb-13e01d35c92d.png)
+
 ### Features:
 - Submit name, email, description and coordinates.
 - Pin plotted on map for each submission.
